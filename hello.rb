@@ -1,5 +1,5 @@
 #! /usr/bin/env ruby
 
 def hello
-  puts 'hello mundo'
+  puts 'hola mundo'
 end
